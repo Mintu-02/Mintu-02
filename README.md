@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mintu Mondal</h1>
+<h1 align="center">Hi 👋, I'm Mintu </h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic2.gif">
