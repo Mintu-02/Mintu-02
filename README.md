@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mintu-02&label=Profile%20views&color=0e75b6&style=flat" alt="mintu-02" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Excel, SQL, Core Java, HTML,CSS**
+- 🌱 I’m currently learning **Power BI, Excel, SQL, Python, HTML,CSS**
 
 - 💬 Ask me about **Power BI, Excel, SQL**
 
